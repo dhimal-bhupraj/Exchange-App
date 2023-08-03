@@ -1,0 +1,14 @@
+.card-body{
+    background-color: black;
+    color: white;
+}
+.card-header{
+    background-color: skyblue;
+    color: black;
+}
+.select{
+    color: black;
+}
+body{
+    background-color: gray;
+}
